@@ -1,0 +1,11 @@
+tile ColumnBig
+circle 0 0 0 64 32 12
+tile ColumnSmall
+circle 0 0 0 64 16 12
+tile zabor_0
+polygon -26 0 0 56 -4 -4 4 -4 4 4 -4 4
+polygon 0 0 0 52 -4 -4 4 -4 4 4 -4 4
+polygon 28 0 0 56 -4 -4 4 -4 4 4 -4 4
+cap
+tile GEROIN
+slope 0 0 0 64 -32 -32 32 -32 32 32 -32 32
