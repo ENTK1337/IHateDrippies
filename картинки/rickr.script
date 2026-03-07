@@ -1,0 +1,9 @@
+procedure armrb
+
+play video vidos\rick3.vid
+
+map return
+
+end
+
+call armrb

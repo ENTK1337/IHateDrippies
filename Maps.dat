@@ -1,12 +1,9 @@
 map_nachalo.eem
+gaydose.ogg
 None
-None
-heal.script
-None
-None
-None
-None
-None
+replica.script
+replica.script
+rickr.script
 None
 None
 None
@@ -21,9 +18,12 @@ None
 None
 None
 None
-None 0
+None
+None
+None
+None 2
 71 71 71
-160 160 160 500
+76 76 76 700
 250 4 233 5000
 255 255 255 128
 255 0 221 500
