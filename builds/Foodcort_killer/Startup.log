@@ -1,0 +1,70 @@
+[Loading game info]
+Game info was loaded successfully
+[Loading animated textures]
+Done!
+[Loading textures]
+Loading texture "ASF-1.png"...Done!
+Loading texture "ASF-0.png"...Done!
+Loading texture "ASF-2.1.png"...Done!
+Loading texture "asphalt_0.png"...Done!
+Loading texture "asphalt_1.png"...Done!
+Loading texture "asphalt_2.png"...Done!
+Loading texture "asphalt_3.png"...Done!
+Loading texture "asphalt_4var.png"...Done!
+Loading texture "earth_0.png"...Done!
+Loading texture "ASFNEW_0.png"...Done!
+Loading texture "ASFNEW_1.png"...Done!
+Loading texture "ASFNEW_2.png"...Done!
+Loading texture "earth_1.png"...Done!
+Loading texture "earth_3.png"...Done!
+Loading texture "earth_poop_2.png"...Done!
+[Loading enemies]
+Loading enemy "zhir_0"...
+Done!
+[Loading weapons]
+Weapon "ak2" was loaded successfully
+[Loading maps info]
+Loading map info for map "1.eem"...
+Done!
+[Loading hp info]
+HP 1 sprite was loaded successfully
+HP 2 sprite was loaded successfully
+HP 3 sprite was loaded successfully
+HP 4 sprite was loaded successfully
+HP info was loaded successfully
+[Loading armour info]
+Armour 1 sprite was loaded successfully
+Armour 2 sprite was loaded successfully
+Armour 3 sprite was loaded successfully
+Armour 4 sprite was loaded successfully
+Armour info was loaded successfully
+[Loading decorations]
+Loading decoration "viviska_0"...
+Done!
+Loading decoration "stop_0"...
+Done!
+Loading decoration "derevo_0"...
+Done!
+Loading decoration "test_model"...
+Done!
+Loading decoration "pen_0"...
+Done!
+[Loading models info]
+Loading model "test_model none 0 0 0 0 0 1 1 1 1 500 1 1 1 0 0 1"...
+Done!
+Loading model ""...
+[Loading HUD settings]
+HUD settings were loaded successfully
+[Loading custom tiles]
+Loading tile "ColumnBig"...
+Done!
+Loading tile "ColumnSmall"...
+Done!
+Loading tile "zabor_0"...
+Done!
+Loading tile "GEROIN"...
+Done!
+Global game resources were loaded successfully
+[Loading scripts]
+Script replica was loaded successfully
+Script 2 was loaded successfully
