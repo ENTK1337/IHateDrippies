@@ -4,6 +4,6 @@ play video vidos\rick3.vid
 
 map return
 
-end
+halt
 
 call armrb

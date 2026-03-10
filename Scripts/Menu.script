@@ -130,6 +130,10 @@ mtext "SWAYING SCALE" $settingsX 410 4
 mrange $settingsValuesX 410 "weaponinertiascale" 4
 mtext "FOV" $settingsX 450 4
 mrange $settingsValuesX 450 "fov" 4
+
+mtext "replica" $settingsX 490 4
+mrange $settingsValuesX 490 "replica" 4
+
 mbutton "ПРИМЕНИТЬ" 350 650 "apply" 4
 
 //AUDIO

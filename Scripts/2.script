@@ -1,1 +1,9 @@
-player hurt 10
+procedure armrqe
+
+play video vidos/rick3.vid
+
+map quickreturn
+
+end
+
+call armrqe

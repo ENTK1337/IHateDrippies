@@ -18,8 +18,14 @@ Loading texture "ASFNEW_2.png"...Done!
 Loading texture "earth_1.png"...Done!
 Loading texture "earth_3.png"...Done!
 Loading texture "earth_poop_2.png"...Done!
+Loading texture "asphaltbordur_0.png"...Done!
+Loading texture "asphaltbordur_1.png"...Done!
 [Loading enemies]
 Loading enemy "zhir_0"...
+Done!
+Loading enemy "gay_1"...
+Done!
+Loading enemy "kazah_2"...
 Done!
 [Loading weapons]
 Weapon "ak2" was loaded successfully
@@ -66,5 +72,3 @@ Loading tile "GEROIN"...
 Done!
 Global game resources were loaded successfully
 [Loading scripts]
-Script replica was loaded successfully
-Script 2 was loaded successfully
