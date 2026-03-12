@@ -1,18 +1,22 @@
 procedure armorb
 
-value=RANDOM(1,3) 
+value=RANDOM(0,4)
 
 if $value == 3 {
 status "я ненавижу бурегры." 2
 }
- 
+
 if $value == 2 {
 status "я ненавижу ." 2
-} 
+}
 
 if $value == 1 {
 status "я ." 2
-} 
+}
+
+if $value == 0 {
+status "." 2
+}
 
 map quickreturn
 end

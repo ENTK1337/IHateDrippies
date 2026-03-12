@@ -1,5 +1,7 @@
 additionalSettings = 1
 
+bind f replica
+
 settingsX = 380
 settingsValuesX = 880
 slotX = 670
@@ -13,6 +15,7 @@ mbutton "СОХРАНИТЬ ИГРУ" 50 490 "save" -1
 mbutton "ЗАГРУЗИТЬ ИГРУ" 50 530 "load" -1
 mbutton "НАСТРОЙКИ" 50 570 "settings" -1
 mbutton "ВЫХОД" 50 610 "exit" -1
+
 
 //SAVE
 mtext "СОХРАНИТЬ ИГРУ" 535 30 1
@@ -116,6 +119,7 @@ mbutton "АУДИО" 620 130 "audio" 4
 mbutton "КЛАВИАТУРА" 770 100 "input2" 4
 mbutton "ВВОД" 770 130 "input" 4
 
+
 mtext "WEAPON RECOIL/ОТДАЧА ОРУЖИЯ" $settingsX 210 4
 mcheckbox $settingsValuesX 210 "weaponrecoil" 4
 mtext "MOVE BOBBING/СМЕЩЕНИЕ ПЕРЕДВИЖЕНИЯ" $settingsX 250 4
@@ -194,6 +198,7 @@ minput "use" $settingsValuesX 370 "use" 62
 mtext "ПРЫЖОК" $settingsX 410 62
 minput "jump" $settingsValuesX 410 "jump" 62
 mtext "КРАСТЬСЯ" $settingsX 450 62
+
 minput "duck" $settingsValuesX 450 "duck" 62
 mtext "ПЕРЕЗАРЯДКА" $settingsX 490 62
 minput "reload" $settingsValuesX 490 "reload" 62
